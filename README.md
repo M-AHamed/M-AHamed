@@ -36,4 +36,5 @@ I am a recent graduate, and currently unemployed programmer. I work on small ful
 - 👯 I’m looking to collaborate on python fullstack projects
 - 📫 How to reach me: email me at [hamedmohammad566@gmail.com](mailto:hamedmohammad@gmail.com)
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AHamed)](https://github.com/anuraghazra/github-readme-statsshow_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AHamed&show_icons=true&theme=radical)
+

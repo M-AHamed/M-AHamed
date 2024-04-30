@@ -32,7 +32,7 @@ I am a recent graduate, and currently unemployed programmer. I work on small ful
 
 <!-- Icons sizes are fixed by GitHub markdown render, if you need custom sizes use <img> tags with specific height and width -->
 - 🔭 I’m currently working on application development with the MERN stack
-- 🌱 I’m currently learning, and FastAPI
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on python backend projects
 - 📫 How to reach me: email me at [hamedmohammad566@gmail.com](mailto:hamedmohammad@gmail.com)
 

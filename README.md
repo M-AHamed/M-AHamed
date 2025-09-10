@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent graduate, and currently unemployed programmer. I work on small fullstack projects, as well as applications. All my projects are imagined, designed, and built from the ground up with the purpose of learning, and gaining experience in different tech stacks, and technologies.
+
 
 ### Languages and Tools
 
